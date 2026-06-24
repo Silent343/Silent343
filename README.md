@@ -11,7 +11,7 @@ Soy un estudiante de Ingeniería de Software apasionado por la creación de solu
 ### 🚀 Sobre mí
 
 * 🏗️ Tengo un fuerte enfoque en **Arquitectura de Software**, diseñando sistemas escalables aplicando el **Modelo C4** y principios de **Domain-Driven Design (DDD)**.
-* 💻 Desarrollo aplicaciones Full-Stack y Móviles, integrando bases de datos relacionales y NoSQL para optimizar el rendimiento.
+* 💻 Desarrollo aplicaciones Full-Stack + IA y Móviles, integrando bases de datos relacionales y NoSQL para optimizar el rendimiento.
 * 🔒 Mantengo un interés continuo en la **ciberseguridad**, abarcando temas de análisis forense digital, hacking ético y frameworks de mitigación de riesgos.
 * 🌍 Constantemente mejorando mi inglés técnico para enfrentar nuevos retos y colaborar en entornos de desarrollo globales.
 
