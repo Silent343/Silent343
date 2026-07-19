@@ -51,7 +51,7 @@ Soy un estudiante de Ingeniería de Software apasionado por la creación de solu
 
 * **LinkedIn:** [Gabriel](https://www.linkedin.com/in/gabriel-gordon-salas-358020386)
 * **Email:** gabrielfgs2004@gmail.com
-* [**Portafolio**](https://silent343.github.io/portfolio)
+* [**Portafolio**](https://portfolio-gilt-one-47.vercel.app/)
 
 ### Proyectos 
 
