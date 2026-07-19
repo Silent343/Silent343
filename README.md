@@ -1,5 +1,4 @@
-<div align="center">
-  <img src="cats-banner.gif" alt="Banner de gatos" width="100%" />
+<div align="center">   <img src="cats-banner.gif" alt="Banner de gatos" width="100%" />
 
   <h1>Hola, soy Gabriel 👋</h1>
 
@@ -42,15 +41,15 @@ Me apasiona crear soluciones tecnológicas que generen impacto. Actualmente expl
 
 <table align="center">
   <tr>
-    <td width="50%"><h3 align="center">Lievda</h3><p align="center">Aplicación web para conectar y gestionar experiencias.</p><p align="center"><a href="https://amora-app-six.vercel.app/">🔗 Ver proyecto</a></p></td>
-    <td width="50%"><h3 align="center">Pixel Room</h3><p align="center">Proyecto web experimental con una experiencia visual interactiva.</p><p align="center"><a href="https://pixelroom-nu.vercel.app/">🔗 Ver proyecto</a></p></td>
+    <td width="50%"><h3 align="center">Lievda</h3><p align="center">Aplicación web y mobile para conectar recuerdos con tu pareja.</p><p align="center"><a href="https://amora-app-six.vercel.app/">🔗 Ver proyecto</a></p></td>
+    <td width="50%"><h3 align="center">Pixel Room</h3><p align="center">Proyecto web experimental con una experiencia visual interactiva en base a pixel art.</p><p align="center"><a href="https://pixelroom-nu.vercel.app/">🔗 Ver proyecto</a></p></td>
   </tr>
   <tr>
     <td width="50%"><h3 align="center">C4 Diagrams</h3><p align="center">Herramienta para crear y visualizar diagramas de arquitectura.</p><p align="center"><a href="https://c4-diagrams.ai.studio">🔗 Ver proyecto</a></p></td>
-    <td width="50%"><h3 align="center">Dockflow</h3><p align="center">Solución para organizar y visualizar flujos de trabajo.</p><p align="center"><a href="https://docflow-web-ten.vercel.app/">🔗 Ver proyecto</a></p></td>
+    <td width="50%"><h3 align="center">Dockflow</h3><p align="center">Extractor inteligente de documentos con reglas SUNAT (RUC módulo-11, IGV 18%), validado con facturas reales.</p><p align="center"><a href="https://docflow-web-ten.vercel.app/">🔗 Ver proyecto</a></p></td>
   </tr>
   <tr>
-    <td width="50%"><h3 align="center">Smart Drive Finance</h3><p align="center">Interfaz para gestionar y analizar finanzas personales.</p><p align="center"><a href="https://smart-drive-frontend-beryl.vercel.app/">🔗 Ver proyecto</a></p></td>
+    <td width="50%"><h3 align="center">Smart Drive Finance</h3><p align="center">Motor de amortización francesa con TCEA/TIR vía Newton-Raphson, ajustado a las reglas del mercado peruano.</p><p align="center"><a href="https://smart-drive-frontend-beryl.vercel.app/">🔗 Ver proyecto</a></p></td>
     <td width="50%"><h3 align="center">Commit Ecosystem</h3><p align="center">Visualización interactiva de un ecosistema de commits.</p><p align="center"><a href="https://commit-ecosystem.vercel.app/">🔗 Ver proyecto</a></p></td>
   </tr>
 </table>
