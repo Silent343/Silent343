@@ -61,8 +61,8 @@ Me apasiona crear soluciones tecnológicas que generen impacto. Actualmente expl
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Silent343&show_icons=true&theme=dracula&hide_border=false&rank_icon=github" alt="Estadísticas de GitHub" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Silent343&layout=compact&theme=dracula&hide_border=true" alt="Lenguajes más usados" />
+  <img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Silent343&theme=dracula" alt="Estadísticas de GitHub" />
+  <img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Silent343&theme=dracula" alt="Lenguajes más usados" />
   <br><br>
   <img src="https://github-readme-streak-stats.herokuapp.com?user=Silent343&theme=dracula&hide_border=true" alt="Racha de GitHub" />
 </div>
