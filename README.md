@@ -52,12 +52,16 @@ Me apasiona crear soluciones tecnológicas que generen impacto. Actualmente expl
     <td width="50%"><h3 align="center">Smart Drive Finance</h3><p align="center">Motor de amortización francesa con TCEA/TIR vía Newton-Raphson, ajustado a las reglas del mercado peruano.</p><p align="center"><a href="https://smart-drive-frontend-beryl.vercel.app/">🔗 Ver proyecto</a></p></td>
     <td width="50%"><h3 align="center">Commit Ecosystem</h3><p align="center">Visualización interactiva de un ecosistema de commits.</p><p align="center"><a href="https://commit-ecosystem.vercel.app/">🔗 Ver proyecto</a></p></td>
   </tr>
+  <tr>
+    <td width="50%"><h3 align="center">Wedwell</h3><p align="center">Aplicación web para centralizar el seguimiento de bodas y visualizar el avance de su planificación.</p><p align="center"><a href="https://wedwell-five.vercel.app">Ver proyecto</a></p></td>
+    <td width="50%"><h3 align="center">RAG</h3><p align="center">Aplicación de Retrieval-Augmented Generation para consultar documentos con respuestas basadas en contexto relevante.</p><p align="center"><a href="https://retrieval-augmented-generation.vercel.app">Ver proyecto</a></p></td>
+  </tr>
 </table>
 
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Silent343&show_icons=true&theme=dracula&hide_border=true&rank_icon=github" alt="Estadísticas de GitHub" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Silent343&show_icons=true&theme=dracula&hide_border=false&rank_icon=github" alt="Estadísticas de GitHub" />
   <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Silent343&layout=compact&theme=dracula&hide_border=true" alt="Lenguajes más usados" />
   <br><br>
   <img src="https://github-readme-streak-stats.herokuapp.com?user=Silent343&theme=dracula&hide_border=true" alt="Racha de GitHub" />
