@@ -26,7 +26,7 @@ Me apasiona crear soluciones tecnológicas que generen impacto. Actualmente expl
 
 - 🏗️ Diseño sistemas escalables usando el **modelo C4** y principios de **Domain-Driven Design (DDD)**.
 - 💻 Desarrollo aplicaciones **Full-Stack, IA y Mobile**, conectadas a bases de datos SQL y NoSQL.
-- 🔒 Me interesa la **ciberseguridad**, el análisis forense digital, el hacking ético y la gestión de riesgos.
+- 🔒 Me interesa la **ciberseguridad**, **análisis de datos**, **desarrollo de software**, **desarrollo de página web**.
 - 🌍 Continúo fortaleciendo mi inglés técnico para colaborar en equipos globales.
 
 ## 🛠️ Tecnologías y herramientas
