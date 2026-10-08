@@ -56,6 +56,10 @@ Me apasiona crear soluciones tecnológicas que generen impacto. Actualmente expl
     <td width="50%"><h3 align="center">Wedwell</h3><p align="center">Aplicación web para centralizar el seguimiento de bodas y visualizar el avance de su planificación.</p><p align="center"><a href="https://wedwell-lmn.vercel.app/">Ver proyecto</a></p></td>
     <td width="50%"><h3 align="center">RAG</h3><p align="center">Aplicación de Retrieval-Augmented Generation para consultar documentos con respuestas basadas en contexto relevante.</p><p align="center"><a href="https://retrieval-augmented-generation.vercel.app">Ver proyecto</a></p></td>
   </tr>
+  <tr>
+    <td width="50%"><h3 align="center">OloHeart</h3><p align="center">Estación de trabajo nativa para Windows que explora la anatomía cardíaca en 3D mediante gestos, mouse y teclado.</p><p align="center"><a href="https://github.com/Silent343/Oloheart">🔗 Ver repositorio</a></p></td>
+    <td width="50%"></td>
+  </tr>
 </table>
 
 ## 📊 GitHub Stats
