@@ -58,7 +58,7 @@ Me apasiona crear soluciones tecnológicas que generen impacto. Actualmente expl
   </tr>
   <tr>
     <td width="50%"><h3 align="center">OloHeart</h3><p align="center">Estación de trabajo nativa para Windows que explora la anatomía cardíaca en 3D mediante gestos, mouse y teclado.</p><p align="center"><a href="https://github.com/Silent343/Oloheart">🔗 Ver repositorio</a></p></td>
-    <td width="50%"></td>
+    <td width="50%"><h3 align="center">Ark</h3><p align="center">Plataforma web para organizar, coordinar y dar seguimiento a proyectos de arquitectura en un espacio de trabajo colaborativo.</p><p align="center"><a href="https://github.com/Silent343/ark-frontend">🔗 Ver repositorio</a></p></td>
   </tr>
 </table>
 
