@@ -46,21 +46,22 @@ Me apasiona crear soluciones tecnológicas que generen impacto. Actualmente expl
   </tr>
   <tr>
     <td width="50%"><h3 align="center">C4 Diagrams</h3><p align="center">Herramienta para crear y visualizar diagramas de arquitectura.</p><p align="center"><a href="https://c4-diagrams.ai.studio">🔗 Ver proyecto</a></p></td>
-    <td width="50%"><h3 align="center">Dockflow</h3><p align="center">Extractor inteligente de documentos con reglas SUNAT (RUC módulo-11, IGV 18%), validado con facturas reales.</p><p align="center"><a href="https://docflow-web-ten.vercel.app/">🔗 Ver proyecto</a></p></td>
-  </tr>
-  <tr>
-    <td width="50%"><h3 align="center">Smart Drive Finance</h3><p align="center">Motor de amortización francesa con TCEA/TIR vía Newton-Raphson, ajustado a las reglas del mercado peruano.</p><p align="center"><a href="https://smart-drive-frontend-beryl.vercel.app/">🔗 Ver proyecto</a></p></td>
     <td width="50%"><h3 align="center">Commit Ecosystem</h3><p align="center">Visualización interactiva de un ecosistema de commits.</p><p align="center"><a href="https://commit-ecosystem.vercel.app/">🔗 Ver proyecto</a></p></td>
   </tr>
   <tr>
     <td width="50%"><h3 align="center">Wedwell</h3><p align="center">Aplicación web para centralizar el seguimiento de bodas y visualizar el avance de su planificación.</p><p align="center"><a href="https://wedwell-lmn.vercel.app/">Ver proyecto</a></p></td>
-    <td width="50%"><h3 align="center">RAG</h3><p align="center">Aplicación de Retrieval-Augmented Generation para consultar documentos con respuestas basadas en contexto relevante.</p><p align="center"><a href="https://retrieval-augmented-generation.vercel.app">Ver proyecto</a></p></td>
+    <td width="50%"><h3 align="center">OloHeart</h3><p align="center">Estación de trabajo nativa para Windows que explora la anatomía cardíaca en 3D mediante gestos, mouse y teclado.</p><p align="center"><a href="https://github.com/Silent343/Oloheart">🔗 Ver repositorio</a></p></td>
   </tr>
   <tr>
-    <td width="50%"><h3 align="center">OloHeart</h3><p align="center">Estación de trabajo nativa para Windows que explora la anatomía cardíaca en 3D mediante gestos, mouse y teclado.</p><p align="center"><a href="https://github.com/Silent343/Oloheart">🔗 Ver repositorio</a></p></td>
-    <td width="50%"><h3 align="center">Ark</h3><p align="center">Plataforma web para organizar, coordinar y dar seguimiento a proyectos de arquitectura en un espacio de trabajo colaborativo.</p><p align="center"><a href="https://github.com/Silent343/ark-frontend">🔗 Ver repositorio</a></p></td>
+    <td colspan="2"><h3 align="center">Ark</h3><p align="center">Plataforma web para organizar, coordinar y dar seguimiento a proyectos de arquitectura en un espacio de trabajo colaborativo.</p><p align="center"><a href="https://github.com/Silent343/ark-frontend">🔗 Ver repositorio</a></p></td>
   </tr>
 </table>
+
+## 🧩 Otros proyectos
+
+- **[Dockflow](https://docflow-web-ten.vercel.app/):** Extractor inteligente de documentos con reglas SUNAT (RUC módulo-11, IGV 18%), validado con facturas reales.
+- **[Smart Drive Finance](https://smart-drive-frontend-beryl.vercel.app/):** Motor de amortización francesa con TCEA/TIR vía Newton-Raphson, ajustado a las reglas del mercado peruano.
+- **[RAG](https://retrieval-augmented-generation.vercel.app):** Aplicación de Retrieval-Augmented Generation para consultar documentos con respuestas basadas en contexto relevante.
 
 ## 📊 GitHub Stats
 
